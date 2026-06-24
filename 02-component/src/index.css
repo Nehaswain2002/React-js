@@ -1,0 +1,16 @@
+body{
+  height: 100%;
+  width: 100%;
+}
+.card{
+  background-color: #d4bebe;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+.nav{
+  background-color: #d4bebe;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
