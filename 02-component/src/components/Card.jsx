@@ -4,7 +4,6 @@ const Card = () => {
   return (
     <div>
       <h1>Hello Guys</h1>
-
     </div>
   )
 }

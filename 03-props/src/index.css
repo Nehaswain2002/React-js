@@ -39,7 +39,7 @@ flex-wrap: wrap;
  margin-top: 10px;
  border-radius:5px ;
 }
-.imge{
+img{
   height: 100px;
   width: 100px;
   object-fit: cover;
